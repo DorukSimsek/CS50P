@@ -1,4 +1,4 @@
 This repository will contain my solutions and projects from Harvard CS50P.
 
-Start date: February 2026
+Start date: February 1st 2026
 Goal: Build strong Python foundations and prepare for CS50x.
